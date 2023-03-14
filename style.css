@@ -2,8 +2,24 @@ body {
   background-color: lightblue;
 }
 
-table, th, td {
+table {
   border: 1px solid black;
   font-size: 18px;
   text-align: center;
+}
+
+ul {
+  font-size: 18px;
+}
+
+p {
+  font-size: 18px;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dl {
+  font-size: 18px;
 }
