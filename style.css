@@ -7,3 +7,15 @@ table, th, td {
   font-size: 18px;
   text-align: center;
 }
+
+ul {
+  font-size: 18px;
+}
+
+p {
+  font-size: 18px;
+}
+
+dt {
+  font-weight: bold;
+}
